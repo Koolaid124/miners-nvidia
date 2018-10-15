@@ -12,7 +12,7 @@
 
 ## Equihash ##
 
-[EWBF's CUDA Zcash miner v0.3.4b](https://github.com/altpool/miners-nvidia/releases/tag/ewbf144)
+[EWBF's CUDA Zcash miner v0.3.4b](https://github.com/altpool/miners-nvidia/releases/tag/ewbf)
 
 [dstm's ZCash Cuda miner v0.6.1](https://github.com/altpool/miners-nvidia/releases/tag/dstm)
 
