@@ -4,6 +4,8 @@
 
 [EWBF Equihash miner v0.6](https://github.com/altpool/miners-nvidia/releases/tag/ewbf144)
 
+[GMiner CUDA Equihash Miner v1.07](https://github.com/altpool/miners-nvidia/releases/tag/gminer)
+
 [Funakoshi Equihash Cuda Miner v5.1](https://github.com/altpool/miners-nvidia/releases/tag/funakoshi)
 
 [Bminer v10.4](https://github.com/altpool/miners-nvidia/releases/tag/bminer)
